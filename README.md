@@ -1,2 +1,2 @@
-# Curriculo
-Currículo feito em aula no curso Barracred Conecta.
+# curriculo-simples-2024
+Estudo de HTML/CSS para criação de um curriculo simples
